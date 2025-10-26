@@ -1,4 +1,4 @@
-# couldai_user_app
+# Vortex AI
 
 A new Flutter project.
 
